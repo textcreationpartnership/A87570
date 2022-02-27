@@ -1,0 +1,1166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A ministers mite cast into the stocke of a weake memory: helpt by rules and experiments. VVith a winter night schoole tutoring discourse to generous youth.</title>
+            <author>Jerome, Stephen, fl. 1604-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87570</idno>
+            <idno type="STC">Wing J681CA</idno>
+            <idno type="STC">Thomason E1361_1</idno>
+            <idno type="STC">ESTC R209182</idno>
+            <idno type="EEBO-CITATION">99868073</idno>
+            <idno type="PROQUEST">99868073</idno>
+            <idno type="VID">169840</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87570)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169840)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1361[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A ministers mite cast into the stocke of a weake memory: helpt by rules and experiments. VVith a winter night schoole tutoring discourse to generous youth.</title>
+                  <author>Jerome, Stephen, fl. 1604-1650.</author>
+               </titleStmt>
+               <extent>[4], 60 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.H. and are to be sold by John Saywell, at the Greyhound in Little Brittaine,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Stephen Jerome.</note>
+                  <note>Annotation on Thomason copy: "May. 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169840:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Miniſters Mite:</hi> Caſt into the ſtocke of a weake MEMORY: HELPT BY RULES AND Experiments.</p>
+            <p>With a winter Night ſchoole tutoring Diſcourſe to Ge<g ref="char:EOLhyphen"/>nerous Youth.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by T.H. and are to be ſold by <hi>John Saywell,</hi> at the Greyhound in Little Brittaine 1650.</p>
+         </div>
+         <div type="book_to_buyer">
+            <pb facs="tcp:169840:2"/>
+            <pb facs="tcp:169840:2"/>
+            <head>The Booke to the Buyer.</head>
+            <l>
+               <hi>I</hi> Do not promiſe here for ſome few ponce,</l>
+            <l>In Schooles of Knowledge, thou ſhals ſo commence</l>
+            <l>To be Panſóphós by this little booke,</l>
+            <l>Gnoſtick, or <hi>Beauclarke,</hi> if on it thou looke.</l>
+            <l>As with a Magazine and Treaſury</l>
+            <l>To furniſh thy diſcourſe and memory;</l>
+            <l>I no Philantiſt am, Narcizzide elſe.</l>
+            <l>So far to be conceited of my ſelfe,</l>
+            <l>As though my Crows were Swans, my men<g ref="char:EOLhyphen"/>tall iſſues,</l>
+            <l>
+               <hi>Phebus</hi> or <hi>Pallas</hi> darlings cloathd in Tiſſues;</l>
+            <l>Yet confidently this I do aver,</l>
+            <l>Such Rules and Cannons here preſcribed are,</l>
+            <l>That for ſome triple part of one poore ſhilling,</l>
+            <l>Thou ſhalt have ſome few mites if thou beaſt willing,</l>
+            <l>Caſt to the ſtock of thy memorative,</l>
+            <l>So much in knowledge and diſcourſe to thrive</l>
+            <pb facs="tcp:169840:3"/>
+            <l>That by ſhort practiſe thou ſhalt in thy brain</l>
+            <l>Learn'd notions read or heard, more ſtrong retaine:</l>
+            <l>This being but a Pinace of ſmall worth</l>
+            <l>To afraught ſhip ere long to be launcht forth,</l>
+            <l>The Brain-book to be cal'd, moſt brains it will</l>
+            <l>With ſubjects ſacred, ſecular ſo fill.</l>
+            <byline>By the Lucubrations of <hi>Steven Hierome, Eccleſiaſtes Grenewichenſis.</hi>
+            </byline>
+         </div>
+         <div type="errata">
+            <p>Good Reader take notice of ſome few Er<g ref="char:EOLhyphen"/>rours eſcaped in the Printing.</p>
+            <p>Page 17. line 23. <hi>reade</hi> diverted.</p>
+            <p>Page 21. line 10. <hi>reade</hi> Vrine.</p>
+            <p>Page 23. line 15. reade <hi>Vinum.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:169840:3"/>
+            <head>
+               <hi>A Miniſters Mite:</hi> Caſt into the ſtocke of a weake Memory: Helpt by Rules &amp; experiments. With a winter nights ſchoole tutoring diſcourſe to gene<g ref="char:EOLhyphen"/>rous youth.</head>
+            <sp>
+               <speaker>Preceptor.</speaker>
+               <p>
+                  <seg rend="decorInit">C</seg>Ome neere, my beſt of Pu<g ref="char:EOLhyphen"/>pills, the flower of my School; as beſides your publick Lectures have dictated unto you many things in private, for your profit in hearing and reading, by re<g ref="char:EOLhyphen"/>membring; your eare more then your eye,
+<pb n="2" facs="tcp:169840:4"/>being the ſence of Knowledge: ſo as a tri<g ref="char:EOLhyphen"/>all of your wit to attaine, and memory to retaine, what I lately Dialoguized with you; now play the pretty talking Eccho, and before your father and your friends, reſonate our diſcuſſions: and wherin your memory is ſhort, (like ſome Miniſter of much reading in his Pulpit) read the reſt in your Notes.</p>
+            </sp>
+            <sp>
+               <speaker>Puer</speaker>
+               <p>I thanke you Sir, that I am ſo much in your Bookes, as to afford mee the benefit of my Booke with Notes: I note it as a ſpeciall favour and amongſt the reſt of my ſtudies, I will ſtudy to deſerve it.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Not to plucke the leaſt feather out of the wings of Time, what thing hath per<g ref="char:EOLhyphen"/>fection, but not period, in Unity?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>God, <hi>ens ontium,</hi> the thing of things, the Alpha and Omega, beginning of beginnings, and end without end, an U<g ref="char:EOLhyphen"/>nity of Eſſence in a Trinity of Perſons, as one and the ſame light, in the Sun, Moone, and Starres; one and the ſame fire in three kindled ſtickes, one and the ſame flame in three lighted candles, one ſoule in man in three faculties; ſo three perſons in one God: three in one, a Trinity of perſons, in
+<pb n="3" facs="tcp:169840:4"/>an unity of Eſſence, in Triune Jehovah E<g ref="char:EOLhyphen"/>lohim.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What things are ſole and alone without Dualls or Pluralls, beſides this Tri<g ref="char:EOLhyphen"/>une God?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>One humane nature, one divine nature, making one Meſſias, (as body and ſoule make one man) one ſole-juſtifying fayth, one Chriſt, one immortall ſpirit in man, one true Church of Saints militant in earth, one of ſaints and ſpirits triumphant in Heaven, one Arke in the Sanctuary, one of Noah, (types of one Church) one ſun, one moone, one way, one truth, one life, one ſalvation, one rocke to build on, one Phaenix writ on, one Baptiſm to beleevers, (not to bee reiterated in <hi>Cyprians</hi> errour) and one Bible to be beleeved and reſted on, as the reſt &amp; touchſtone of all our facts and faith; without building on the ſands of Popes erring, Councels, Fathers, Superſti<g ref="char:EOLhyphen"/>tions, and Traditions bogging and ſinking thouſands of ſoules into that bottomleſſe pit which ſends forth Locuſts of Jeſuits, Familiſts, new Donatiſts, Enthuſiaſts, Swinckfeldians, and all Hell hatcht Here<g ref="char:EOLhyphen"/>tiques.</p>
+            </sp>
+            <pb n="4" facs="tcp:169840:5"/>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>In what things for uſe may a wiſe modeſt, and moderate man, terminate and limit his will and deſire in one?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>In the prime place, in one God, cruſhing (as the Arke did Dagon) all Pa<g ref="char:EOLhyphen"/>ganiſh, Turkiſh, and Popiſh deities: one Chriſt weighing downe to hell, all old and new Antichriſts, one Orthodoxe truth diſ<g ref="char:EOLhyphen"/>ſolving all errors and hereſies, as the ſunne miſts and clouds.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>And what more?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>One good horſe is enough for a journey by Land, one ſtauncht ſhip, as a Sea-horſe for the Sea, one good Pilot for a ſhip, one Paſtour for my ſoule, one Phyſiti<g ref="char:EOLhyphen"/>an for my body, a Tutor for my learning, a booke for my preſent reading.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What booke ſhould that be, as your choice delight beſides the Bible? Such as <hi>Homer</hi> was to <hi>Alexander, Tertultian</hi> to <hi>Cyprian, Quintus Curtius</hi> to <hi>Alphonſus,</hi> and <hi>Livie</hi> to <hi>Prontiſperge.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>In Hiſtory, as you told me, to bee confined unto one booke it ſhould be <hi>Pli<g ref="char:EOLhyphen"/>ny,</hi> or <hi>Diodovus Siculus,</hi> or <hi>Geſner,</hi> or all e<g ref="char:EOLhyphen"/>pomitizing <hi>Zuinglius.</hi> In Morality, <hi>Plu<g ref="char:EOLhyphen"/>tarchs</hi> Ethicks, <hi>Picolomineus,</hi> in poſitive
+<pb n="5" facs="tcp:169840:5"/>Divinity, <hi>Calvins</hi> Inſtitutions, or <hi>Polanus Syntagme,</hi> or the workes of <hi>Zanchy,</hi> or <hi>Gerauld:</hi> for Logick, <hi>Keckerman</hi> or <hi>Dow<g ref="char:EOLhyphen"/>nam</hi> on <hi>Ramus:</hi> for Rhetorick <hi>Voſſius,</hi> for common places, <hi>Peter Martyr,</hi> or <hi>Are<g ref="char:EOLhyphen"/>tius,</hi> or <hi>Muſculus:</hi> for Philoſophy, <hi>Zaba<g ref="char:EOLhyphen"/>rell:</hi> for witty paſſages the French <hi>Stevens</hi> his tranſlated World of Wonders, or <hi>Boc<g ref="char:EOLhyphen"/>cace</hi> his <hi>Decamerou,</hi> or the Queene of Na<g ref="char:EOLhyphen"/>varres Novells, or the Bee Hive of the Ro<g ref="char:EOLhyphen"/>miſh Church.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What Catechiſmes did I tell you, were beſt to acquaint you with the Funda<g ref="char:EOLhyphen"/>mentalls of Religion?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>rſinus</hi> and <hi>Baſtingius</hi> Cate<g ref="char:EOLhyphen"/>chiſmes, which now ſpeake Engliſh: that of Mr. <hi>Ball,</hi> and the Lancaſhire Miniſters, purpoſely compiled for Families: thoſe for brevity compiled by Mr. <hi>Perkins, Eger<g ref="char:EOLhyphen"/>ton, Burton,</hi> chieſly the large Body of Di<g ref="char:EOLhyphen"/>vinity, by the learned Primate, deſerving prime place: and next to it in our tongue, the Queſtions and Anſwers of Dr <hi>Babing<g ref="char:EOLhyphen"/>ton,</hi> on the Creed, Lords Prayer, and Ten Commandements.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What parents trayned up their children and families in the Rudiments of
+<pb n="6" facs="tcp:169840:6"/>Religion in private, as <hi>Origen,</hi> and <hi>Didi<g ref="char:EOLhyphen"/>mus Alexandrinus</hi> in <hi>Alexandria, <g ref="char:V">Ʋ</g>rſi<g ref="char:EOLhyphen"/>nus</hi> in <hi>Belgia,</hi> and others in publique.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>Adam</hi> trayned ſo his ſacrificing <hi>Abel, Abraham</hi> his <hi>Iſaac,</hi> his ſoldiers and ſervants, <hi>Joſhua</hi> his houſhold, <hi>David</hi> his, <hi>Job</hi> his, <hi>Buthſhebah</hi> her <hi>Solomon, Helena</hi> her <hi>Conſtantine, Macrina</hi> her nurſe-child St. <hi>Baſil, Monicah</hi> her <hi>Auguſtine, Auna</hi> her conſecrated <hi>Samuel, Euuice</hi> and <hi>Lois</hi> good <hi>Timothy,</hi> with others, who prooved excellent inſtruments of Gods glory, in their times and great comforts to their Pa<g ref="char:EOLhyphen"/>rents.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What is the heart and minde of a Childe nakedly in it ſelfe conſidered?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Its white paper, fit to take any writing, ſoft wax fit for any impreſſion, <hi>tabula vaſa,</hi> a playne board or ſtone fit for any carving or ſculpture, a new veſſell fit for any ſeaſoning, with bad tarre and ſmel<g ref="char:EOLhyphen"/>ling oyles, or ſweet wines, and white Cloth fit for any colour or tincture in dy<g ref="char:EOLhyphen"/>ing.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>But to reflex a little further on your Unities, what onely one may content a wiſe man, as a Sculler without a fellow?</p>
+            </sp>
+            <pb n="7" facs="tcp:169840:6"/>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>One <hi>Caeſar</hi> in Rome, one Generall in a Campe, as one Maſter Bee in a Hive, one Maſter in a houſe, one friend like <hi>Joua<g ref="char:EOLhyphen"/>than, Socrates</hi> or <hi>Crates</hi> the Thebane, to converſe with, one <hi>Plato</hi> in ſtead of all, one <hi>Cato</hi> to conſult with, one <hi>Fedus Achates</hi> to walke with, one wiſe <hi>Abigail,</hi> or patient <hi>Grizel,</hi> or <hi>Willobeyes Aviſa,</hi> or <hi>Overbu<g ref="char:EOLhyphen"/>ries</hi> Wife, deſcribed to live with, and that Wife to have but one good tongue to talke with; many tongues of Dutch, French, Spaniſh, Italian, Latin, in a woman, being ſuſpitious to be all good, oft breeding a Babels confuſion.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What is the firſt thing that lives in Man?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>His heart, which is alſo ſayd to be the laſt that dies, as in ſome women the tongue is the laſt which moves, <hi>aut metiun<g ref="char:EOLhyphen"/>tur Poetae.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What is the tamer of all ſhrewes?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Not words nor ſwords, nor blows, which quiet a <hi>Zantippe,</hi> as ſtones throwne at an angry dog, or red colors, Turky cocks and Unicornes, but <hi>Morpheus</hi> or <hi>Mors,</hi> death or deadly ſleep, which makes a ſhrew a ſheep, a ſounding vowell, as ſilent as a
+<pb n="8" facs="tcp:169840:7"/>Turkiſh mute.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What creatures begin their workes in the midſt?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>All Birds, and Swallowes their neſts, the ſilke wormes their clewes, the bees their honey-combes, and the ſpiders their webs, as in generation God firſt fra<g ref="char:EOLhyphen"/>med the heart in the midſt of man, and in regeneration infuſeth grace into that midſt as was ſeene in the Jewes pricked and re<g ref="char:EOLhyphen"/>pentant, and in the Aethiopian Eunuch, beleeving firſt in their hearts, ere grace was knowne and ſhowne in their lives, Rom. 10. v. 10.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What is it for meere Legall Preach<g ref="char:EOLhyphen"/>ers to preach and preſſe duties to bee done, and ſinnes to be left and loathed, to carnall Auditors, ere ever they know or feele the power of Fayth, or Evangelicall Repent<g ref="char:EOLhyphen"/>ance, the roots of duties, and the conque<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs of corruptions, Heb. 11.6. John 15.1.2.3.4. 1. John 5.4</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>This is to require an apple ere there be an ingrafted tree, an egge where there is no hen, breathing where there is no ſoul, yea to expect ſucking and crying in a dead child, Eph. 2.1. Muſicke in Organ-pipes,
+<pb n="9" facs="tcp:169840:7"/>where be no blowing bellowes, feeling in a woodden leg, and an eye of glaſſe, where there is no participation of vitall and ani<g ref="char:EOLhyphen"/>mall ſpirits, and to looke for fruit of dead trees, dried up, cut downe, and withered, this meerely ſets the cart before the horſe, the effect before the cauſe, and will needes bring forth a ſon to God, to beleeving A<g ref="char:EOLhyphen"/>braham, Gal. 3.7. and a daughter to Sarah, ere there be any mother, or any regenera<g ref="char:EOLhyphen"/>ting immortall ſeed, 1. Pet. 1.21. in which moſt of our ſtrict ſtearne Legall and auſtere Miniſters, who neither experimentally know Chriſt, nor how to reveale him to o<g ref="char:EOLhyphen"/>thers, goe in a tract to convert ſoules, as if they ſhould walke with their heads down<g ref="char:EOLhyphen"/>ward, and heeles upward, or reare up a firme houſe without a foundation, urging morall duties to unbeleevers, which honeſt Pagans Jewes and Turkes have done, and may doe to no purpoſe without a Chriſt, Acts 4.12. Matth. 15.13. Acts 10.43.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What is the beſt knowledge in a Preacher?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>As in a Phyſitian that which is ex<g ref="char:EOLhyphen"/>perimentall, drawing that which he prea<g ref="char:EOLhyphen"/>cheth and preſſeth to others, as the ſpider
+<pb n="10" facs="tcp:169840:8"/>her webs, and the ſilkeworme her clew, out of the bowels of his owne experience, without which he talks as a Parret by rote, connes by heart his part and his Quew, like a Player, patcheth up as a Taylour his ſhreds, what he can ſcrape and ſnap from <hi>Polyanthea, Granateuſis</hi> his <hi>Silva,</hi> and eve<g ref="char:EOLhyphen"/>ry Author; and often as the eccho of Mr. <hi>Perkins, Smith, Biſiald, Taylour, Bayne, Greenham, Dike, Deering,</hi> repeats as good Sermons, or homely Homelies, as any hee can buy for money.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Whats the beſt Embleme of a Prea<g ref="char:EOLhyphen"/>cher?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>A Cocke, firſt clapping his wings to awaken himſelfe, then crowing to awa<g ref="char:EOLhyphen"/>ken others; like that Cocke which preacht Chriſts rehearſall Sermon to Peter, peceant and penitent.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Whats the beſt Embleme of a good Hearer?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Firſt, to be as ſwift to heare, as ſlow to ſpeake, and as ſtudious to meditate, as the Scholars of <hi>Pythagoras,</hi> or <hi>Thomas Aquinas</hi> (of a long time called <hi>Bos mutus,</hi> a dumbe Oxe, for his ſilent Soliloquies) as is ſayd of yong Nightingales, that they ſit
+<pb n="11" facs="tcp:169840:8"/>ſolitarily on boughes, and repeat by them<g ref="char:EOLhyphen"/>ſelves, what notes and tones they heare from the old ones. <hi>Camerarius</hi> reports the like of Elephants, muſing on their Maſters leſſons, directing their dancings on hard ſtones, to the ſound of muſick.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What helps did I preſcribe you for Memory, with the reaſons that moſt re<g ref="char:EOLhyphen"/>member Sermons no better?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Firſt, want of attention, their wan<g ref="char:EOLhyphen"/>dring eyes or walking tongues carrying their hearts a woolgathering from their eares, whereas a Hiſtory, Muſicke, and Ser<g ref="char:EOLhyphen"/>mons, ſhould have ſtrict attention, Luke 4.20 21.</p>
+               <p>Secondly, the ſeed of the word is choa<g ref="char:EOLhyphen"/>ked with the thornes of carking cares, Luke 8.7. or drowned in the bogges and quags of luſts, or waſht out of their minds with the lutulent waters of ſenſuall thoughts, or overgrowne with weeds of wrath, James 1.21.</p>
+               <p>Thirdly, one nayle drives out another; the ruſty nayle of the world, the golden nayle of the word; carnall diſcourſes cau<g ref="char:EOLhyphen"/>ſing forgetting of that in the Church-yard, which they got in the Church: their ſtreams
+<pb n="12" facs="tcp:169840:9"/>turned into other torrents, makes their hearts ſo dry, their lives ſo barren and their braynes ſo ſhallow.</p>
+               <p>Fourthly, want of love to the word: for had a man as many children, as <hi>Ahab</hi> and <hi>Prianus,</hi> a ſchoolemaſter as many ſcholars as <hi>Jo. Scotus, Erigona,</hi> or <hi>Orbilius</hi> once, or <hi>Ramus,</hi> they would bee remembred, be<g ref="char:EOLhyphen"/>cauſe all are loved; it being no marvel, that <hi>Cynus, Mitloridates,</hi> and <hi>Scipio,</hi> remembred their ſouldiers names ſo well, becauſe their hearts were upon them, and they loved them as well as <hi>Alexander</hi> and <hi>Caeſar</hi> their ſouldiers, whom they called their <hi>Commi<g ref="char:EOLhyphen"/>litones,</hi> fellow-ſoldiers.</p>
+               <p>Fiſthly, want of compunction, becauſe their hearts are not pricked, nor their con<g ref="char:EOLhyphen"/>ſciences wounded in hearing, nor cut with the ſword of the ſpirit, Heb. 4.12. Jer. 22.29. more then the Smiths Anvile or the ſcales of a Dragon, harder for beating and hammering, being unmelted with the fire, their hearts take no print; for a man re<g ref="char:EOLhyphen"/>members where, when, and how, hee was wounded, by pike, ſword, or piſtoll, all the dayes of his life.</p>
+               <p>Sixthly, want of practice; the ſouldier
+<pb n="13" facs="tcp:169840:9"/>ſcarce forgetting the poſtures he hath lear<g ref="char:EOLhyphen"/>ned to practice.</p>
+               <p>Seventhly, there is oft moſt fault in Prea<g ref="char:EOLhyphen"/>chers, 1. eyther in their dull and dead prea<g ref="char:EOLhyphen"/>ching, without light, life, or power, which charmes them aſleepe, as <hi>Mercuries</hi> pipe did <hi>Argus;</hi> 2 or ſtupifies them as Henbane doth payned teeth. 3. Or clawes them like Tygers to a tameneſle, 4. or ſowes pillows under their elbowes for the drowſie naps of ſecurity, 5. or by their immethodicall luxate and unoynted preaching, they loſe themſelves and hearers, method being the mother of Memory: 6. or by too high and ſublime preaching, they intangle their hea<g ref="char:EOLhyphen"/>rers in intricate Laborinths and Meanders, out of which they cannot unwinde them<g ref="char:EOLhyphen"/>ſelves: 7. or their truantly reading their Sermons, like words from a faint ſick man, making no impreſſion: in egregious folly calling on their hearers to remember their Sermons, when they cannot reme<g ref="char:cmbAbbrStroke">̄</g>ber them themſelves: or laſtly, the fowles of the ayr picke up the uncovered ſeeds, as ſoone as they be ſowen: and therfore as when gold and plate is ſtoln, men cry Theeves, theeves, thoſe who preſently forget what they
+<pb n="14" facs="tcp:169840:10"/>heare, may cry, the Divel, the Divel.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Theſe rules I did dictate unto you, as removalls of the Remoraes and obſtru<g ref="char:EOLhyphen"/>ctions, both to youth and to yeares, in re<g ref="char:EOLhyphen"/>membring of Sermons, and you doe well to remember them, and yet you have not repeated all.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Indeed Sir, I finde what you told me, that my memory was like a Sive or a Riddle, which leakes out the pure water, and keeps in the dirt and droſſe. I can re<g ref="char:EOLhyphen"/>member toyes and tales, and Ballads, and bables, better then ſolid matter; as weake ſtomackes be more fild oft with wind then with good meat, and as a childs pocket is ſild with traſh and pibble ſtones, rather then with gold and good things. Yet now I call to minde ſome other Rules you pre<g ref="char:EOLhyphen"/>ſcribed to my memory.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <hi>Tanaom aliquaudo,</hi> let us further heare them.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>I muſt as a main helpe to memory, meditare of what I heare or read; medita<g ref="char:EOLhyphen"/>tion chewing the cud, digeſting all mentall cares, and turning them <hi>in ſuccum &amp; ſan<g ref="char:EOLhyphen"/>guinem,</hi> into bloud and nutriment, Pſ. 1.3. For want of meditation, the word heard
+<pb n="15" facs="tcp:169840:10"/>or read, takes no more impreſſion then a ſerpents way over a ſtone, an Eagle in the ayre, or a ſhip in the ſea: like the ſands which run in an houre-glaſſe, out in one houre, as they run in, in another; that run<g ref="char:EOLhyphen"/>ning out at one eare, which comes in at another.</p>
+               <p>Secondly, you preſcribed me conference, which brings much to light, as the reper<g ref="char:EOLhyphen"/>cuſſions of ſteele and flint, bring forth fire, and as laying of ſticke to ſticke, and coale to coale, both keepe in fires, and as beg<g ref="char:EOLhyphen"/>gars every one of them bringing ſeverall ſcraps, make a beggars feaſt, ſo it is when hearers meet and confer notes, (not of <hi>Randalls Ariſtippus,</hi> or <hi>Ariſtotle,</hi> but) of Sacred Scripture and Sermons.</p>
+               <p>Thirdly, noting and quoting (by pen<g ref="char:EOLhyphen"/>ning) principall heads of Sermons: and af<g ref="char:EOLhyphen"/>ter recollecting and examining them, as the noble <hi>Bereaus</hi> did, Acts 11. is a tryed help to memory, that being moſt tenatiouſly re<g ref="char:EOLhyphen"/>vited and infixed, which is done by moſt circumſtances: one circumſtance like links in a golden chaine drawing on another, pull one, the reſt follow.</p>
+               <p>Fourthly, Hearts muſt bee free from
+<pb n="16" facs="tcp:169840:11"/>cares, griefes, ſorrow, feare, boyling anger, and all paſſions, perturbations, and regnant luſts, which fill the mind as puddle waters fill the Veſſells, and keepe out the <hi>Roſa ſo<g ref="char:EOLhyphen"/>lis,</hi> and the true <hi>Aqua vita</hi> of the Word, it being hard to ſee any face reflexed fayre in a lentulent and troubled water.</p>
+               <p>Fifthly, its both a triall of a ſincere heart and love to the Word, and a helpe to the memorative faculty, to give the word heard, the prime and firſt place in the thoughts and cogitations of the heart. In our firſt morning wakings when the mind is moſt cleared, and the braine leaſt cloud<g ref="char:EOLhyphen"/>ed, then a heart opening to the Word, as the Marygold to the Sunne, brings a great ſtocke to the treaſury of Knowledge, and to the Magazine of Memory.</p>
+               <p>Sixthly, as <hi>uſur promtos facit,</hi> uſe makes perfect; uſe legges and have legges, the child firſt creeps and then goes; ſo uſe me<g ref="char:EOLhyphen"/>mory and have memory. <hi>Auguſtine</hi> by often preaching proſited, and by proſiting preached; and <hi>Miloes</hi> ſhoulders not by a<g ref="char:EOLhyphen"/>ny increaſed ſtrength, but by dayly, con<g ref="char:EOLhyphen"/>ſtant exerciſe, bore a Calfe till it grew to a ponderous Bull. And in the Art of Memo<g ref="char:EOLhyphen"/>ry,
+<pb n="17" facs="tcp:169840:11"/>thoſe yong <hi>Tirees</hi> who have begun at firſt to lodge but ſeven or eight wordes in a chamber, which they ever bear as an <hi>Idea</hi> in their mindes, in few dayes by degrees have lodged thirty, forty, fifty, or ſixty, not onely wordes but ſentences in the upper middle, and lower places of the ſaid cham<g ref="char:EOLhyphen"/>ber devided into ſeverall Continents, and its probable that <hi>Seneca, Cyrus, Hortonſius, Portius, Latro,</hi> and our Doctour <hi>Fuller,</hi> with others famouſed for memory, attain<g ref="char:EOLhyphen"/>ned their perfections by ſuch degrees pre<g ref="char:EOLhyphen"/>ſcribed.</p>
+               <p>Seventhly, it brings no ſmall adjument to memory, preſently ere any action be in<g ref="char:EOLhyphen"/>tervenient, to ſtrike whilſt the Iron is hot, and to ſet the Seale whilſt the Waxe is ſoft, in writing downe what ere wee can re<g ref="char:EOLhyphen"/>member as ſoone as ever it is heard; for though writing by characters or at large be more gainefull as communicable to others, yet it ſo takes away or duls the edge of af<g ref="char:EOLhyphen"/>fection in a ducerted courſe, turning the care into a pen, that for to heat devotion its more powerfull to heare attentively, and to write what wee receive retentively, af<g ref="char:EOLhyphen"/>ter wee have pondered what wee heard.</p>
+               <pb n="18" facs="tcp:169840:12"/>
+               <p>Eightly, you told mee, for remembring other Claſſicall Authours, whether divine or humane; it was moſt profitable to ex<g ref="char:EOLhyphen"/>tract the very marrow and quinteſſence of them into ſhort Epitomes and Abridge<g ref="char:EOLhyphen"/>ments, as ſome have abridged <hi>Calvins</hi> In<g ref="char:EOLhyphen"/>ſtitutions, and ſome Maſter <hi>Rogers</hi> his Di<g ref="char:EOLhyphen"/>rectories, as <hi>Lucius Florus, Livies</hi> Hiſto<g ref="char:EOLhyphen"/>ry.</p>
+               <p>Ninthly, ſome to remember ſome Au<g ref="char:EOLhyphen"/>thour have tranſcribed him wholly, as <hi>De<g ref="char:EOLhyphen"/>moſthenes</hi> writ out <hi>Thucidides</hi> eight times.</p>
+               <p>Tenthly, ſome have read over an Au<g ref="char:EOLhyphen"/>thour very often, as <hi>Cyprian</hi> did <hi>Tertulli<g ref="char:EOLhyphen"/>an,</hi> and <hi>Alphonſus</hi> the Bible foureteene times, as its ſayd in one yeare.</p>
+               <p>Eleaventhly, others have committed to memory whole bookes, or parcells of them, as ſome the booke of the Pſalmes, ſome yonger Boyes and Girles in our Times all the Epiſtles of St. <hi>Paul.</hi>
+               </p>
+               <p>Twelfthly, ſome have extracted out of the Bible all the Promiſes, as Miſtreſſe <hi>Alice Fenuick;</hi> ſome all the parallell places, as <hi>Junius;</hi> ſome all that mainely confute Popery, as <hi>Pelargus</hi> in his <hi>Jeſuitiſmus,</hi> and the zealous Father of Sir <hi>James Ware</hi> in Ireland.</p>
+               <pb n="19" facs="tcp:169840:12"/>
+               <p>Thirteenthly, others have ripened their Judgements, and ſtrengthned their Memo<g ref="char:EOLhyphen"/>ries by tranſlating Authours, as <hi>Calvins</hi> Inſtitutions, and his Comments on <hi>Job, Pareus</hi> his Comments on the Revelations, <hi>Muſculus</hi> and <hi>Peter Martyrs</hi> Common places, <hi>Philemon Holland, Plutarks</hi> Lives and Morralls, <hi>Plinny, Suetonius</hi> (not ſuffe<g ref="char:EOLhyphen"/>red to bee <hi>Tranquillus</hi>) our <hi>Tapſell, Geſ<g ref="char:EOLhyphen"/>ners</hi> Hiſtory, with others, which <hi>Plebe<g ref="char:EOLhyphen"/>ians</hi> read, rather then underſtand in our Engliſh tongue.</p>
+               <p>Fourteenthly, others have incorporated other Authours into their owne ſtiles, and moulded them into their memories by a neere imitation of them, as <hi>Theocritus</hi> in this kinde imitated <hi>Heſiod, Virgil, Homer,</hi> our <hi>Laureat, Spencer,</hi> and the Latine <hi>Lu<g ref="char:EOLhyphen"/>can, Virgil,</hi> Doctour <hi>Hall, Seneca, Geſner, Pliuny,</hi> our late <hi>Aeobanus Heſſus,</hi> and our <hi>Draiton,</hi> and <hi>Daniell, Ovid,</hi> and <hi>Coquier, Lipſius</hi> in his Politicall Aphoriſmes.</p>
+               <p>Fifteenthly, its advantagious to memo<g ref="char:EOLhyphen"/>ry, to take the opportunity of the morning, which is ſayd to bee <hi>Muſis amica,</hi> ever a friend to the Muſes; ſtudies and ſerious recollections after a full and free repaſt, in
+<pb n="20" facs="tcp:169840:13"/>a dinner, chiefly night ſtudies being as pre<g ref="char:EOLhyphen"/>judiciall to the braine as to the body.</p>
+               <p>Sixteenthly, you acquainted mee alſo with ſome helpes in dyet, as amongſt the reſt ſuch a moderate uſe of mine, as <hi>Paul</hi> preſcribes to his <hi>Timothy,</hi> 1 Tim. 5. and the Mother of <hi>Solomon</hi> to her <hi>Lamuel,</hi> Prov. 31. Secondly, Birds whoſe bloods by reaſon of often motion bee more pure then the wateriſh blood of Fiſhes, or groſſer bloods of Beaſts. Thirdly, of Birds the wilde, of Teale, Duck, Mallard, Pheaſant, Partridge, rather then the tame, though as the Fryer ſayd, who deſired but the legge of a Capon, and the wing of a Gooſe with the braines of a Woodcock, neither comes amiſſe. Fourthly, for fleſh, Veales, Mut<g ref="char:EOLhyphen"/>tons, Pigs, Rabbets, and theſe of purer bloods, and lighter digeſtion then Beeves, Porkes, Bulls, or ſuch as dainty Dames call the groſſer Butchers ware. Fiftly, of wild Veniſons, Hares, Deere, Stags, Roe-Bucks, rather thoſe which are hunted, then ſhot with Peeces and kild (as many Innocents) by clublaw. Sixtly, of all kinde of fleſh, rather that which is roaſt, (which dries up the humidities) then what is ſodde, whoſe
+<pb n="21" facs="tcp:169840:13"/>ſtrength goes into the broath. Seventhly, the often eating of Raiſins of the Sunne, Candid Ginger, Coriander prepared, Cheſt<g ref="char:EOLhyphen"/>nuts, and all Stypticks. Eighthly, the of<g ref="char:EOLhyphen"/>ten miſtication and clawing of white fran<g ref="char:EOLhyphen"/>kincenſe called Olybanum, the anointing of the head, with that which is called the Philoſophers Oyle, the ſpeedy expulſion of all excrements from the braine by the noſe, from the body by the draught, or by urim, often frication and rubbing of the head with a Scarlet or Linnen cloth moderately warm'd, as alſo the oft waſhing the head with the ſweeteſt Hearbes, and the feete with the decoction of Fennell, the leaves of Laurell, and Camomile, with the uſe of Bugleſſe, how ever it be taken. Ninthly, moderate exerciſe before meate as a prepa<g ref="char:EOLhyphen"/>rative to a ſupping or dining ſtomack, and after meate as a digeſtive, with waſhing the hands chiefely in Roſe-water, which waſhing though ſome ſcoffe it before meat to bee Phariſaicall, though after meate Phi<g ref="char:EOLhyphen"/>ſicall, yet neither before nor after (even Fiſh and Oyſters) may bee thought ſlovin<g ref="char:EOLhyphen"/>nicall, and intrinching on <hi>Gorbianus</hi> and <hi>Gorbiana,</hi> hee and ſhee ſlovens, though in<g ref="char:EOLhyphen"/>deed
+<pb n="22" facs="tcp:169840:14"/>above all theſe preſcribed.
+<q>
+                     <l>
+                        <hi>Sepe recordari medicamine fortius omni.</hi>
+                     </l>
+                     <l>No Paracelſians, Galleniſts, ſupplyings</l>
+                     <l>Helpe memory ſo much as<note n="*" place="margin">
+                           <g ref="char:V">Ʋ</g>ſus Magi<g ref="char:EOLhyphen"/>ſter aerris. <hi>Morat.</hi>
+                        </note> exercizings.</l>
+                     <l>
+                        <hi>Lectio lecta placet, decies repitita placebit,</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>ſus &amp; ars decuit, quod ſapit omnis homo.</hi>
+                     </l>
+                     <l>Ten times repeating, what doth pleaſe be<g ref="char:EOLhyphen"/>ing read,</l>
+                     <l>Rivets all readings, in the weakeſt head:</l>
+                     <l>With art, uſe, right commixt, makes rich ſupplies</l>
+                     <l>Of what man needes to cure all maladies.</l>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Who uſually have the weakeſt me<g ref="char:EOLhyphen"/>mories?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Old men, by reaſon of the too much dryneſſe, Children by reaſon of too much moyſture in their braines, Drunkards by too much in their bellies, which not on<g ref="char:EOLhyphen"/>ly rots the Livers of ſuch wicked livers, as Raines and Mildewes rot the Livers of Hares, Deere, Sheepe, and Rabbits: But as thick fogges from an Iriſh bogge, aſcend from the lower Region of their bellies, to the upper Region of their clouded and dul<g ref="char:EOLhyphen"/>led braines; withall ſick men by the com<g ref="char:EOLhyphen"/>motions of their ſpirits, and diſtemper of their heads; eſpecially timerous and fear<g ref="char:EOLhyphen"/>full
+<pb n="23" facs="tcp:169840:14"/>ones, whoſe heads are in their tremb<g ref="char:EOLhyphen"/>ling hearts, and hearts in their heeles, have ſeldome ſo good memories as the ſound and couragious; neither have the melancholy in their thickned blood, and clouded ſpi<g ref="char:EOLhyphen"/>rits, ſo ſtrong memories as the ſanguine in their purified bloods and ſpirits.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What things are obnoxious to me<g ref="char:EOLhyphen"/>mory, beſides theſe wee have already diſ<g ref="char:EOLhyphen"/>cuſſed?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The greedy gulphing of all raw fruites, with the uſe of Vinegar, or Wine aegar, is as farre ſhort of ſweete Wines, Malmſie, Muſcadines, Greeke Wines, Ca<g ref="char:EOLhyphen"/>nary Sacks, and <hi>Vivium Cos,</hi> for memory, as Eringoes, and hot Drugges, are ſhort of cold Lettice, ſteeped Rew, Tobacco, and <hi>Agnus Caſtus,</hi> for Chaſtity. Withall the too much ingurgitations of meates and drinks in our Gluttons, and <hi>Hellicons</hi> Hogs of <hi>Epicurus</hi> his ſtye, drowne both their mindes and memories in Hogſheads, as the Duke of <hi>Clarence</hi> once in a Butt of Sack: Much ſleepe alſo like a Dormouſe, or the Beaſt <hi>Colus</hi> after Rut, and the Mauritani<g ref="char:EOLhyphen"/>an Aſſes, after their Hemlocks ſtupiſies the memorative faculties; ſo doe alſo all meats
+<pb n="24" facs="tcp:169840:15"/>which are groſſe and of hard digeſtion: chiefly the immoderate uſe of <hi>Venus,</hi> which dulls the braine, ſpends, ſpoyls, and ſoyls the vitall and animall ſpirits; and ſhor<g ref="char:EOLhyphen"/>tens life, as we know in the Cock ſparrow the quaile, and other ſalatious Creatures: withall no leſſe obnoxious to memory, are all ſharpe vaporous liquids from Onions, Garlicks, Muſtard ſeed: as alſo our too cold and moyſt Cucumbers, water Creſſes, and Sorrells.</p>
+            </sp>
+            <p>Laſtly, many things accidentally hurt memory: as the corrupting of it, when the ſpecies of things paſt are forgotten; as alſo the diminution of it, by accidentall paſſions, ſickneſſes, and diſeaſes: or the ablation of it utterly loſt, by the wounding of the braine or ſome part of it: hence, be<g ref="char:EOLhyphen"/>ſides many brain-ſicke Heretickes, whoſe brains had need be purged, with <hi>Helibore</hi> (chiefely our new Seekers beyond the moone for ſome fift Goſpell, like that once of the Carmalites; as though the Religion of the Prophets and Apoſtles were imper<g ref="char:EOLhyphen"/>fect) wee have ſome other Fantaſticks, called men of crackt and crazy brains.</p>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Hence we have ſo many learned,
+<pb n="25" facs="tcp:169840:15"/>and famouſed men in Authours, quite lo<g ref="char:EOLhyphen"/>ſing their memory, and turning as oblivi<g ref="char:EOLhyphen"/>ous as the Oſtridge which forgets her eggs which ſhe hath hid in the ſands, upon ſeve<g ref="char:EOLhyphen"/>rall occaſions: as <hi>Bambo</hi> the King of the Gothes, by a draught of poyſon admini<g ref="char:EOLhyphen"/>ſtred unto him by <hi>Heringius</hi> his ſucceſſor. <hi>Gregory Trapezuntius</hi> by old age forget<g ref="char:EOLhyphen"/>ting all letters, both Greeke, and Latine; which was alſo the caſe of <hi>Francis Barba<g ref="char:EOLhyphen"/>rus</hi> the learned Venetian, and of <hi>Orbilius</hi> the great Gramarian, and ſome by a cold Palſie, as <hi>Lycoſthenes, Anno Dens</hi> 1555. who loſt his memory, as <hi>Nabuchaanez<g ref="char:EOLhyphen"/>zar</hi> loſt his Reaſon for ſeven years; and after recovered it: ſome by long ſickneſſe, as <hi>Meſſala Corvinus</hi> after a long ſickneſſe forgetting his owne name: as thoſe nomi<g ref="char:EOLhyphen"/>nated with others are recorded more large<g ref="char:EOLhyphen"/>ly, by <hi>Solinus,</hi> cap. 7. <hi>Polihiſt Pliny, lib.</hi> 7. <hi>hiſt cap.</hi> 24. <hi>Sabellicus, lib.</hi> 10. <hi>cap.</hi> 9. <hi>Volaterau lib.</hi> 21. <hi>Authrop,</hi> and <hi>Valerius, lib.</hi> 1. <hi>cap.</hi> 8.</p>
+               <p>Therefore the ſumme of all this is, that all hearers of the Word, all ſtudents in hu<g ref="char:EOLhyphen"/>manity, and Divinity, ſhould by frequent and fervent prayer, be Petitioners to the
+<pb n="26" facs="tcp:169840:16"/>Throne of Grace, to the giver of all gifts, both generall and ſpeciall, common and ſanctified; that he who gave wiſedome to <hi>Solomon,</hi> tongues to the Apoſtles, inſpira<g ref="char:EOLhyphen"/>tions to the Prophets, a mouth unto <hi>Aaron,</hi> the door of utterance unto <hi>Paul,</hi> eloquence to <hi>Apollo,</hi> and gifts unto men when he aſ<g ref="char:EOLhyphen"/>cended up unto heaven, <hi>Eph.</hi> 4.12. would in mercy beſtow his ſpirit upon them, not onely to enlighten their underſtandings as the Sunne doth the aire, and to open their eyes, Acts 26.18. as he did the Diſciples, Acts 24 and their hearts, as he did <hi>Lidiaes,</hi> Acts 16. and to lead them into all Truth, Joh. 16.13. but to ſtrengthen their memo<g ref="char:EOLhyphen"/>ries according to his promiſe, Joh. 14.26. as he did the memories of his Diſciples, Joh. 2.22. and of his Virgin Mother, who hid all his words in her heart, Luke 2.51. without this influence of Grace on our hea<g ref="char:EOLhyphen"/>rings, and readings, as the fruite of prayer, all the means for memory preſcribed be but in vaine, 1 Cor. 3.6.7. and by prayer watering them, our poor preſcriptions may be bleſſed. <hi>Quod omen exoptat Hierony<g ref="char:EOLhyphen"/>mus Eccleſiastes Greenewickenſis.</hi>
+               </p>
+            </sp>
+            <epigraph>
+               <q>
+                  <l>Cum facilis ſit inventis addere,</l>
+                  <l>ſi quid re<g ref="char:EOLhyphen"/>ctius iſtis noveris,</l>
+                  <l>Candidus imperti, ſi non his utere mecum.</l>
+               </q>
+            </epigraph>
+         </div>
+         <div type="dialogue">
+            <pb n="27" facs="tcp:169840:16"/>
+            <head>A Winter nights Schoole tutoring Diſcourſe to Generous Youth.</head>
+            <sp>
+               <speaker>Philologus.</speaker>
+               <p>
+                  <seg rend="decorInit">C</seg>Ome my ingenious Pupill, as I have put your Brothers wits and memory to the teſt and touchſtone: So to make ſome experience of yours to paſſe the time this Winter night in the beſt paſtime to your Parents and Friends, I re<g ref="char:EOLhyphen"/>quire you to repeate unto mee, what you writ lately from my dictates unto you?</p>
+            </sp>
+            <sp>
+               <speaker>Puer.</speaker>
+               <p>By the helpe of my Notes I hope Sir, I ſhall anſwer your Demands: for I aſſure you I have not left out, nor loſt any
+<pb n="28" facs="tcp:169840:17"/>thing out of them which I heard from you.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Then you have like moſt Schoole<g ref="char:EOLhyphen"/>boyes <hi>tosesm in ſaculo</hi> all in your ſatchell.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>No Sir, all in my Pocket, though not in my Pate.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>It ſeemes you begin betimes to poc<g ref="char:EOLhyphen"/>ket up a great wrong to your memory?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>No Sir, I deſire to alleadge, <hi>ſcrip<g ref="char:EOLhyphen"/>turus eſt, &amp; litera ſcripta manet, cum verba volaut;</hi> words are but winde, but writ<g ref="char:EOLhyphen"/>ings are firme, Authentick, and obligatory, paper chaines being oft ſtronger then thoſe of Iron, in this Iron Age full of Ire, and full of Iron.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>It ſeemes you truſt more to your writings, like Scriveners, Brokers, and U<g ref="char:EOLhyphen"/>ſurers, then to your wits like a Schollar: As ſome Preachers have their Sermons, and ſome Players their Parts (which they con) more in their Notes (as men of note and great readings) then in their hearts, truſt<g ref="char:EOLhyphen"/>ing their bookes more then their braines, in which poſture, as ſome Mercers with their debts, and ſome cold Chriſtians with their prayers you booke all; for take them from their booke-formes which they follow, as Boyes their written Coppies, and Girles
+<pb n="29" facs="tcp:169840:17"/>their Samplers, and you take props from hops, Crutches from Cripples, and Oakes from Ivies.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Indeede Sir, I thought a man ſand<g ref="char:EOLhyphen"/>blinde might have uſed his Spectacles, and a lame man his crutches, and a weake me<g ref="char:EOLhyphen"/>mory ſome Notes?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>They are Notes indeed of a weake memory, but howſoever ſince it will bee no better, I grant you your booke.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Its a great mercy Sir, in a Judge to a Priſoner, though I hope my tongue hath not broke the Jayle, nor like a Gen<g ref="char:EOLhyphen"/>tleman Uſher gone before my wits.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>You are a pretty Sparke, and ſince you can finde your tongue ſo ſoone, and (as a womaniſh weapon) wield it ſo well, tell mee why the tongue is not joyned to the heating, ſeeing, ſmelling, touching, and taſting, as a ſixt ſence?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Becauſe as a Bedlam or mad man, or rather mad women, <hi>Lingua</hi> being of the Foeminine Gender, it oft runs wilde Gooſe chaſe after Sir <hi>Gregory</hi> Non-ſence.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>But to render further your Repeti<g ref="char:EOLhyphen"/>tion Lecture, how many eyes have you?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Not ſo many Sir, as <hi>Argus,</hi> or a Lamprey, only two.</p>
+            </sp>
+            <pb n="30" facs="tcp:169840:18"/>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>How many hands have you?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Fewer then <hi>Briareus,</hi> only two.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>How many feet?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Not ſo many as a Gnat, and the Po<g ref="char:EOLhyphen"/>etizing <hi>pediculus</hi> in her hexametrizing feet.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>How many eares have you?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Though I never ſaw them whether they bee long like <hi>Midas</hi> his eares, or ſhort like a Mouſe, yet I am ſure I have but two.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>How many Tongues?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>One?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Why have you two legges, two hands, two eyes, two eares, and but one tongue?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Becauſe one is enough, if it bee a good one, two tongues being as needleſſe as two ſtrings at once to a bow, two Hor<g ref="char:EOLhyphen"/>ſes for one man in a little journey by Land, or two wooden horſes by Sea.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>And why beſides?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Becauſe as I have but one tongue, it ſhould only expreſſe the thoughts of one heart, without playing at Doublets, by Jeſuiticall Equivocation doubling, as is writ of Pope <hi>Alexander</hi> the ſixt, and <hi>Caeſer Borgias</hi> his Baſtard ſon (Machiavills pat<g ref="char:EOLhyphen"/>ternes of his politick Prince) that the one
+<pb n="31" facs="tcp:169840:18"/>never ſpoke as hee thought, the other ne<g ref="char:EOLhyphen"/>ver thought as hee ſpoke, their wordes and thoughts (like <hi>Germaines</hi> lippes) being nine miles a ſunder.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>And what more?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>I have two Ears, to heare much; two eyes, to ſee much; two hands, to work much; two legs, to walk much; and but one tongue to talk little, according to the old Caution; <hi>Aude, vide, tace; ſi velis vivere pace:</hi> hear, ſee, and ſay the beſt, if thou wilt live in peace and reſt: let not the Ware-houſe of thy heart, all to thy tongues ſhop impart.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>To reflex a little further upon your ſences: What Creature hath quicker ſight than Man?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Hauke, the Eagle, the Serpent <hi>Epidaurus,</hi> and the Lynceus, which is ſaid to penetrate even ſollid bodyes.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What Creatures exceed man in ſmelling.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Dog, the Fox, the Swine, the Badger, the Puttock, the Vulture, who will ſmell carrion as far off, as a thiefe will ſmell a Purſe, or a wife man a Rat, call'd a Knave mask'd in the habit of honeſty.</p>
+            </sp>
+            <pb n="32" facs="tcp:169840:19"/>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who exceed Man in exquiſite tou<g ref="char:EOLhyphen"/>ching?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Spider, who feels the leaſt touch in her Webbe (as a wife man feeles the leaſt touch on his name and reputation) though ſome man hath an exquiſite touch on a Lute and Inſtrument, as an artificiall ſupply in this ſenſe</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who exceed Man in hearing?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Hart, the Hare, the Boare, and the Moale; yea almoſt every Beaſt and Byrds, chiefly in theſe times, in which it is hard to heare any good news.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who heare the worſt?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Kings and Tyrants, ſuch as <hi>Dio<g ref="char:EOLhyphen"/>niſius</hi> once, <hi>Herod, Alexander,</hi> and ſuch as delight like Tygers to be clawed by flat<g ref="char:EOLhyphen"/>terers, who ſeldome or never heare the truth told them by their Court Scycophants in private, or <hi>Ahabs</hi> Chaplains, and <hi>Jeza<g ref="char:EOLhyphen"/>bels</hi> Prieſts in publique.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who are moſt blinde?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Thoſe that will not ſee Woods for trees; alſo thoſe that like the Phariſees, the Laodiceans, and ſelf-conceited fooles, think they ſee when they are more blinde then Beetles, and Moales, and thoſe who
+<pb n="33" facs="tcp:169840:19"/>ſuffer their eyes to bee put out with white and yellow duſt blowne into them as high as the ſeate of Juſtice: Like ſome <hi>Ormon<g ref="char:EOLhyphen"/>dized</hi> Grandees in <hi>Ireland,</hi> who could not ſee Kernes and Rebels incloſed in ſome Caſtles (as <hi>Cacus,</hi> and five Kings of <hi>Mi<g ref="char:EOLhyphen"/>dian</hi> in their Caves) but let them flye out, as Woodcocks in a Miſt:</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>But who were thoſe, who being blinde ſaw more then thoſe that had eyes?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>Sampſon,</hi> who never ſaw his folly with <hi>Dalilah,</hi> and the Harlot of <hi>Zoreck,</hi> till his eyes were out.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who elſe?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>Mauritius</hi> and <hi>Zedekias</hi> who ne<g ref="char:EOLhyphen"/>ver ſaw ſo far into Gods juſtice on their ſins, as when the firſt was blinded by <hi>Pho<g ref="char:EOLhyphen"/>cas,</hi> the other by the Caldeans vexation giving underſtanding, as it did to <hi>Manaſ<g ref="char:EOLhyphen"/>ſes, David, Adonizebeck</hi> the Goſpels Pro<g ref="char:EOLhyphen"/>digall, and many more.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>And who elſe?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Blinde <hi>Homer,</hi> blinde <hi>Didimus, Alexandrinus,</hi> blinde Mr. <hi>Fiſher</hi> late of <hi>Cambridge,</hi> who ſaw more internally then moſt that had eyes externally, as a blinde man cured by Chriſt, ſaw more then the
+<pb n="34" facs="tcp:169840:20"/>occular Phariſees, John 9. and a blinde man burned in Queene <hi>Maries</hi> time, ſaw more into Gods truth then bloody <hi>Bonner,</hi> Bi<g ref="char:EOLhyphen"/>ſhop <hi>Morgan, Gardiner,</hi> Fryer <hi>Alphou<g ref="char:EOLhyphen"/>ſus,</hi> and all the Sons of the ſcarlet Whore.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>But who ſaw as clearely by night as by day?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Some ſay <hi>Scanderbeg, Tamberlaine,</hi> and <hi>Tiberius Caeſar,</hi> as though they had the eyes of Fowmarts, Ferrits, Wolves, Foxes, and Rats, yea of Draytons Owle (the Em<g ref="char:EOLhyphen"/>bleme once of an occular Courtier) who ſaw not onely day at a little hole, but ſo cleare in the night in Queene <hi>Elizabeths</hi> Time, that ſhee needed not <hi>Diogenes</hi> his Candle, nor the dark Lanthorn of a <hi>Faux,</hi> or our <hi>Catilinarian</hi> Firebrands; but not to come too neere to Courts nor Camps, leſt Guns and Cannons deafe us that wee can<g ref="char:EOLhyphen"/>not heare, flaſhes and lightnings blinde us that we cannot ſee the truth at noone day.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>To returne to the Creatures, which of them in the neareſt Sympathy love the deareſt?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Olive and the Pine, the Mir<g ref="char:EOLhyphen"/>tle and the Roſe, the Ivy and the young Oake amongſt Plants.</p>
+            </sp>
+            <pb n="35" facs="tcp:169840:20"/>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who amongſt Birds?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Doves and the Peacocks, the Felfars &amp; Stares who feed together, and all Birds of a Feather that flock together, as Cranes, Teales, Crowes, Wilde-Geeſe, and Scotch ſollem Geeſe called Barnacles.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Which amongſt the Fiſhes?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Sword-fiſh, and the Flayle<g ref="char:EOLhyphen"/>fiſh, who as two Dogges againſt a Beare, joyne together to plague the Whale that is ſo great, the one pricking him under his belly, the other threſhing his backe, as <hi>ne Hercules contra duos.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who alſo?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Sea-Lamprey, and Viper, who couple together, and the little <hi>Muſculus,</hi> who as the Whales Harbinger, goes before him to ſound the depths, that hee welter not on a ſand-bed, or come too neare the ſhoare.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who amongſt Beaſts?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Sheepe and Deere who feede together in one Parke, the little Ibis alſo for a Bird, the Crocodiles Barber-Surgeon, who picks his teeth when hee ſleepes with open mouth, as though hee gaped for a Be<g ref="char:EOLhyphen"/>nefice, or ſome Golden Gudgeon.</p>
+            </sp>
+            <pb n="36" facs="tcp:169840:21"/>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Betwixt what Creatures is the grea<g ref="char:EOLhyphen"/>teſt hatred and antipathy?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Betwixt the Elephant and the U<g ref="char:EOLhyphen"/>nicorne, the Lyon, the Gryphin and the Dragon, the Crow and the Aſſe, the Horſe and the Wolfe, the Foxe and the Lambe, the Dogge and the Deere, with many more who agree together like two ſnarling Hounds in a couple, two Cats at a Mouſe, two Wives in a houſe, two Beggars at a doale, two Haukes at a Partridge, two Dogges at a Boare, two Kings at a Throne, who ſeldome agree in one, more then two Corrivalls in one Office, in one Love, in one Crowne.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What's the way to quiet Bees when they are fighting?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>To throw duſt amongſt them, the remembrance of Mortality that wee muſt all lodge in, the lappe of one common Mo<g ref="char:EOLhyphen"/>ther the Earth perſwading Unity: elſe our wraths are like flamiferous <hi>Aetua,</hi> and the Coales of <hi>Juniper,</hi> unquencheable, unleſſe the milke of the Word, the waters of the Sanctuary, the blood of the Paſcall Lambe, and the wine of the Enchariſt quench our devaſting wild-fires.</p>
+            </sp>
+            <pb n="37" facs="tcp:169840:21"/>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>But what is the cauſe of moſt Law<g ref="char:EOLhyphen"/>ſuites, and Weſtminſter quarrels?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Two words <hi>(Meum &amp; Tuum)</hi> Mine and Thine, as the two Mothers be<g ref="char:EOLhyphen"/>fore <hi>Solomon</hi> for a Child, and the three Goddeſſes before <hi>Paris</hi> conteſted for a gol<g ref="char:EOLhyphen"/>den Ball.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who deſides the controverſie?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Not liberty of Conſcience which playes ſweepe ſtake, and rakes all: But the Law, and oft <hi>Ambodexter</hi> the Lawyer, in ſuch Equity, as that Arbitrator, who gave two that conteſted about an Oyſter, either of them a ſhell, and himſelfe eate the Fiſh, or in ſuch a fate and ſtate as the Butlers box, that wins all when every Gameſter looſeth, after much ſhuffling and cutting.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who are the greateſt ſleepers?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Not Dormice, nor Ruſſian Beares, nor the beaſt <hi>Colus</hi> after Rutting, nor Poetized <hi>Endimion</hi> with the Moone; but thoſe of the leuder Laity, prophane Plebei<g ref="char:EOLhyphen"/>ans, drouſie Clergy, and ſomniferous Ma<g ref="char:EOLhyphen"/>giſtracy, who paralleld with the ſeven ſlee<g ref="char:EOLhyphen"/>pers in <hi>Diocleſians</hi> Time, will not, nor can<g ref="char:EOLhyphen"/>not bee awakened with the golden Bels of <hi>Aaron,</hi> for this late ſeven yeares, nor with
+<pb n="38" facs="tcp:169840:22"/>the Trumps of the word, nor the warning Cannons of War, nor the pricks of ſwords, nor the voyces of Cryers lowder then <hi>John</hi> Baptiſt, yea as loud as the bloods of many Innocents, <hi>Abells, Naboaths,</hi> and <hi>Zacha<g ref="char:EOLhyphen"/>ria's.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who was the wiſeſt man of meere men in the World?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>Solomon,</hi> a Type and Figure of Chriſt, wiſer then <hi>Socrates, Solon, Bias, Thales, Periauder, Cleobulus, Cato, Plato,</hi> or any Sages of the Romans or Athenians, who had their wiſdome either by ſtudy: As <hi>Abraham, Iſaac Jacob,</hi> who had Wells by digging, or by experience and obſerva<g ref="char:EOLhyphen"/>tion; but hee had wiſdome without ſtudy; as the Prophets and Apoſtles their tongues and guifts by immediate inſpiration.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Wherein was his folly for all his wiſdome?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>In his unſatiable effeminacy, more then ever was read of <hi>Horcules, Claudius, Clodius, Heliogabulus, Proculus,</hi> or the moſt luxurious Goates: As the Canker in his Roſe, and the Colloquintida in his pot, polluting all his beſt, and befooling all his wiſdome.</p>
+            </sp>
+            <pb n="39" facs="tcp:169840:22"/>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>This womaniſhneſſe indeed hath beene the Cantharides in the oyntment of the moſt wiſe, worthy, and valiant, even of <hi>Sampſon</hi> the ſtrongeſt, of <hi>Haniball</hi> the Martialiſt, looſing all that glorie in <hi>Capua,</hi> which hee wonne in <hi>Canna,</hi> and of famous <hi>Caſar</hi> called <hi>Meehum calvum,</hi> the bald Lecher, and <hi>omnium mulierum virum,</hi> a <hi>Jack</hi> for every <hi>Gill,</hi> and beauteous Trull, ſuch as <hi>Terentia, Servillia, Poſtbumia,</hi> and others, pretermitting how much <hi>Paris</hi> was eclipſed by <hi>Heleua, Troilus</hi> by <hi>Creſeida,</hi> and both <hi>Achilles</hi> and <hi>Agamemnon</hi> by <hi>Bri<g ref="char:EOLhyphen"/>ſeis,</hi> for whom they contended: Hence tell mee who were moſt allured by their eyes in this nature?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>David</hi> by <hi>Bathſheba,</hi> (as fabled <hi>Acteon</hi> by <hi>Diana</hi>) the two old Goatiſh-Judges by the beauty of <hi>Suſanna, Sichem</hi> by <hi>Dinah,</hi> and the Sonnes of God by the Daughters of men, by whoſe commixtions Gyants were firſt produced, as monſtrous Births, from monſtrous Luſts.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>But were no women ſnared and inflamed by their eyes, by, or through which, banefull beauty ſhot a poyſoned Bullet into their hearts, called by Poets,
+<pb n="40" facs="tcp:169840:23"/>blinde Cupids Darts?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Yes, the whoriſh Egyptian was ſcorched by looking and luſting after chaſt and faire <hi>Joſeph. Phadra</hi> by beholding <hi>Hippolitus</hi> (the Paganiſh <hi>Joſeph</hi>) and more then a good many others, in <hi>Burtons</hi> love Melancholy: for, <hi>Femina vidit, uritq vi<g ref="char:EOLhyphen"/>dendo:</hi> a woman when ſhe lookes on men deſired, her heart is Tinder, Powder, Match love fired: whence the poore lover ſighed; <hi>Cur perii, cur lumina noxia vidi?</hi> Why did I eye the beauty bright, fired by Coc<g ref="char:EOLhyphen"/>katrices ſight?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What is the beſt preventing Phy<g ref="char:EOLhyphen"/>ſick for ſuch poyſon?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>To guard well the Cinque-Ports againſt trayterous Love-paſſions; not on<g ref="char:EOLhyphen"/>ly with <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes</hi> to ſtop our eares from the charms of ſuch Syrens; but to cloſe our eyes from beholding vanity, chiefely in a luring Dalilah, and a painted <hi>Jezabel,</hi> ac<g ref="char:EOLhyphen"/>cording to the Caution, <hi>Quid facies, fa<g ref="char:EOLhyphen"/>cies Veneris, cum Veneris ante, nè ſedeas, ſed eas ue Pereas per cas:</hi> What wilt thou doe when <hi>Venus</hi> comes thee nigh? Oh ſit not nigh her! leſt thou periſh by her.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>He indeed that will prevent ſinne,
+<pb n="41" facs="tcp:169840:23"/>muſtprevent the occaſion, as he that hath a dizzy brain muſt not walk over a narrow Bridge, and he that will not be bit with Wine as with a Serpent, muſt not looke at the colour of it: as the fond Fly, if ſhe will not be ſcorched, muſt not dally with the flame; beſides, he muſt quench the heates, of Love or luſt, (as Factions in the Church, and fractions in a State) in their firſt ſparks; cruch them like ſerpents in the head, and Cockatrices in their ſhells, in their firſt riſings, ere they get head, as young Hauks are caught in Ayries, ere they get wing: but among thoſe who were culpable in their eyes, who moſt abuſed their tongues?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>Ahab</hi> who falſely accuſed, <hi>Jeza<g ref="char:EOLhyphen"/>bel</hi> who threatned, the Zelous <hi>Thiſbite, Turtullus</hi> who traduced <hi>Paul, Diotrephes</hi> who prated againſt <hi>John</hi> the Divine, <hi>She<g ref="char:EOLhyphen"/>mei</hi> who reviled, <hi>Michall</hi> who mocked, <hi>Saul</hi> who vituperated, <hi>Goliab</hi> who blaſ<g ref="char:EOLhyphen"/>phemed, holy <hi>David</hi> (as <hi>Rabſhekah,</hi> both God and <hi>Hezekiah:</hi>) with all the Prieſts, and falſe Prophets who ſcandalized <hi>Jeremi<g ref="char:EOLhyphen"/>ah;</hi> the proud and profane Jewes, who ſmote him with the tongue; the ſame Jews
+<pb n="42" facs="tcp:169840:24"/>who contradicted, blaſphemed, &amp; ſcandali<g ref="char:EOLhyphen"/>zed both <hi>Paul</hi> &amp; <hi>Steven,</hi> &amp; Chriſt himſelf; as the Arians in the Primitive times did <hi>A<g ref="char:EOLhyphen"/>thanaſius, Narciſſus, Eugenius,</hi> and all the Orthodox; &amp; as <hi>Cocleus, Belſerus, Staple<g ref="char:EOLhyphen"/>ton, Feverdentius,</hi> Scurrilous, <hi>Kelliſon,</hi> &amp; all the Romiſh <hi>Rabſhekah's</hi> tongue poyſo<g ref="char:EOLhyphen"/>ned, <hi>Luther, Melancton, Calvin, Beza,</hi> &amp; all our moſt famous Belgick Divines, prae<g ref="char:EOLhyphen"/>termitting the muttering mouch-murthe<g ref="char:EOLhyphen"/>ring tongues of <hi>Corah, Dathan, Abiram,</hi> and the hard hearted Idolatrous Jewes, a<g ref="char:EOLhyphen"/>gainſt <hi>Moſes</hi> and <hi>Aaron,</hi> and the poy<g ref="char:EOLhyphen"/>ſons in the tongus of ſome Prieſts (as if like Popery and frenzy running in a bloud) a<g ref="char:EOLhyphen"/>gainſt old <hi>Hierom</hi> the <hi>Trilinguist, Hierom</hi> of <hi>Prague, Hierom Savanorola, Hierom, Zanchius,</hi> and others.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who like many a <hi>Monſieur men<g ref="char:EOLhyphen"/>dax,</hi> gulling <hi>Guzman,</hi> lying <hi>Lazarillo,</hi> lewd <hi>Lentulus,</hi> and Hell hatched hereticks of our dayes had his lying tongue more than Latin tongue?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>Gehezi,</hi> who was a Leaper for his labour, and his ſeed after him.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who uſed their tongues as inſtru<g ref="char:EOLhyphen"/>ments of Gods glory, and the good of others?</p>
+            </sp>
+            <pb n="43" facs="tcp:169840:24"/>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>Moſes, Aaron, Samuell, Daniell, Phineas, old Simeon,</hi> in praying and Pro<g ref="char:EOLhyphen"/>pheſying, <hi>Deborah,</hi> and <hi>Baruck, Elkanaes, Anna, Judith</hi> the Beththulian, and the Vir<g ref="char:EOLhyphen"/>gin Mother in praiſing God, chiefly <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> whoſe tongue was the Pen of a ready Writer, who had ever an Euchariſticall Song and Pſalme for God, as God had a mercy of Adornation and Preſervation for him, in delivering him from the Beare, the Lion, <hi>Doeg</hi> the Dog, <hi>Achitophel</hi> the Fox, <hi>Saul</hi> the Tyger, <hi>Goliah</hi> the Monſter, the treacherous Ziphims, <hi>Shebah, Abſolous,</hi> and the Philiſtines.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>It is remarkable alſo, that when <hi>Augustine</hi> and <hi>Ambroſe</hi> met, they compo<g ref="char:EOLhyphen"/>ſed in mutuall anſwers: that, <hi>te Deum,</hi> we praiſe thee O God. And when our Doc<g ref="char:EOLhyphen"/>tour <hi>Sibbs,</hi> and Doctour <hi>Preston</hi> met, they found ever to diſcourſe on ſome further ex<g ref="char:EOLhyphen"/>cellencies in God: as did alſo (as the beſt preſident for women) <hi>Elizabeth</hi> and the Mother of Chriſt, reaſonating Gods praiſes, not like carnall Goſſips, abuſing their tongues, and miſpending their time in pratlings, traducing the abſent, often the innocent. Hence its eaſie to reſolve which
+<pb n="44" facs="tcp:169840:25"/>be the beſt or worſt of all Diſhes.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>Aeſop</hi> long ſince told his Maſters, they were tongues as they were well or ill dreſt, and layd in Pickle, ſeaſoned with the ſalt of the Sanctuary, yea waſhed in the beſt holy water, &amp; ſage the beſt of them, or Rotten, ripe for rotting, like the tongue of <hi>Nestorius</hi> the worſt of them.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What trade is moſt profitable, leaſt prejudiciall to others, leaſt envyed, moſt honoured with the greateſt, which yet at laſt will fail, though now the moſt profeſſe it?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>It is neither Law, Phyſick, Divini<g ref="char:EOLhyphen"/>ty, Merchandizing, Surgery, nor any other Function, Liberall, or Mechanick, by ſea, nor by Land; but in one word, beg<g ref="char:EOLhyphen"/>ging.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>You ſay true; for to illuſtrate all my propoſalls by demonſtration: firſt, its moſt profitable litterally, 1 and Engliſh, or a Scotch Courtier (praetermitting all the <hi>quondam</hi> gaines of it in the Courts of <hi>Alex<g ref="char:EOLhyphen"/>ander, Pirrbus, Auguſtus,</hi> as alſo in their Camps) getting more in one morning by begging, whilome from King <hi>James</hi> than a Preacher by ſpending his Lights and
+<pb n="45" facs="tcp:169840:25"/>Lungs, or an Advocate by pleading halfe <hi>Nestors</hi> years. 2. Withall, Its leaſt preju<g ref="char:EOLhyphen"/>diciall in a metaphoricall ſence, begging by prayer: it being in the Order of Petitio<g ref="char:EOLhyphen"/>ners, as in the Order of Predicants, and true Elemoſinarians, the more the better, though it hold in few other profeſſions in Troynovant: the moe Hounds the better hunting, moe Spaniels beter Hauking: there multitudes being as prejudiciall to their thriving, as many Phyſitians were to the health of <hi>Adrian,</hi> one (in a manner) devouring another; not as <hi>Pharaohs</hi> lean Kine the fat, and empty ears the full: but the fat the lean, as great Pikes the little fry, and greater beaſts and birds, the leſſer. 3. Withall, whereas in other trades aemulati<g ref="char:EOLhyphen"/>on is a great ſtickler, plaguing it ſelfe and others, this is the leaſt envyed. 4. Withall, however other trades are reſpected by men chiefly liberall Artiſts: yet never had any <hi>Galeniſt, Justmian, Baldus, Bartolus,</hi> or <hi>Hermolaus Barbarus</hi> that reſpect with Grandees: no not <hi>Ennius</hi> with <hi>Scipio, Virgil</hi> with <hi>Auguſtus,</hi> or <hi>Cyneas</hi> with <hi>Pyrrhus,</hi> as the poor ſoul hath with Chriſt, by a praying ſpirit. 5. Laſt of all, its moſt
+<pb n="46" facs="tcp:169840:26"/>gainfull, though not with the men of the earth, yet againſt the men of the earth, and with the great God of Heaven: as for inſtance, this begging and petitio<g ref="char:EOLhyphen"/>ning by prayer, hath brought fire from hea<g ref="char:EOLhyphen"/>ven, ſhut and opened the heavens in <hi>Elias</hi> his time: ſtayd the courſe of the Sun in <hi>Jo<g ref="char:EOLhyphen"/>ſhua's</hi> time: brought Manna from heaven, water out of a Rock: plagued <hi>Pharaoh:</hi> drowned an Army: divided the Sea in <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> his time: raiſed two children, with <hi>Dorcas, Lazarus,</hi> and <hi>Jairus</hi> his daughter, healed <hi>Ezekiah,</hi> divided <hi>Joràane</hi> twice: wreſtled and prevailed with God, and with men: healed Leproſies, and all diſeaſes: diſpoſſeſſed Demoniacks: and as Faiths Daughter, did ever as great marvels, and miracles as did the mother: yet for all this, this trade muſt at laſt faile; after the Re<g ref="char:EOLhyphen"/>ſurrection there will be no more uſe of it in the full fruition of foelicity, than of Faith and hope. But this ſubject having drawn on an enlargement, to abbreviate the reſt: Who were Martyrs, yet never Confeſſors, nor Diſputants for the Faith, nor Petitio<g ref="char:EOLhyphen"/>ners to the Court of Heaven?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>All the Infants of Bethelem, as
+<pb n="47" facs="tcp:169840:26"/>innocent Lambes deſtroyed by <hi>Herod</hi> the Fox.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who was wiſer than his Teach<g ref="char:EOLhyphen"/>ers?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>David</hi> more wiſe than <hi>Gad,</hi> and <hi>Nathan: Moſes</hi> wiſer than <hi>Jethro</hi> his Counſellour: <hi>Paul</hi> a greater Proficient in Chriſts Colledge than <hi>Gamaliel: Apollos</hi> more eloquent than <hi>Aquila,</hi> and <hi>Priſcilla:</hi> and amongſt Moraliſts, <hi>Aristotle</hi> in his Philoſophy exceeded his Maſter <hi>Plato:</hi> and of Divines, <hi>Thomas Aquinas</hi> out ſhined his Maſter <hi>Albert,</hi> how ever like <hi>Baſil</hi> cal<g ref="char:EOLhyphen"/>led great.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Where was vertue truely in the midſt?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Chriſt in the midſt of the Doctors in the Temple, and in the midſt of his Diſ<g ref="char:EOLhyphen"/>ciples, after his Reſurrection, as the Sun in the midſt of the Planets, as the true Cen<g ref="char:EOLhyphen"/>ter in the Worlds circumference.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Where was vertue in the midſt be<g ref="char:EOLhyphen"/>twixt two extreames, as a Shippc betwixt two Rocks?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>When Chriſt was crucified on the Croſſe betwixt two Thieves, and as the Scotch <hi>Buchanan</hi> deſcanted, when in Italy
+<pb n="48" facs="tcp:169840:27"/>hee ſaw him pictured betwixt Fryer <hi>Fran<g ref="char:EOLhyphen"/>cis</hi> and Fryer <hi>Dominick,</hi> and when <hi>Peter</hi> ſlept betwixt a quaternion of Souldiers in <hi>Herods</hi> Priſon, where the Angel was his Goale-deliverer, as alſo <hi>Paul</hi> and <hi>Silas</hi> in the like caſe at <hi>Philippos,</hi> and Queene <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi> when ſhee was <hi>tanquam ovis,</hi> as a ſheepe, betwixt her Siſter and <hi>Gardiner,</hi> deſigned for the ſlaughter; in <hi>Caeſars</hi> caſe when hee was ſtabbed by Bodkins in the midſt of the Senate, and <hi>John Scotus Erigo<g ref="char:EOLhyphen"/>na</hi> with Penknives in the midſt of his Schollars.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Where is the Earth higher then the Heavens?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>In Chriſts humaine nature, exalted above the viſible Heavens, and above invi<g ref="char:EOLhyphen"/>ſible Angells glorified, as that true body tooke from Earthly <hi>Adam.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Where did the Earth water the Heavens?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>When <hi>Mary Magdalen</hi> an earthly ſinfull woman, did waſh the heavenly feet of Chriſt, her eyes being the Baſin and Ew<g ref="char:EOLhyphen"/>er, and her haire the Towell.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What waters aſcend to Heaven?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The teares of penitent ſinners,
+<pb n="49" facs="tcp:169840:27"/>wronged Widdowes and Orphanes.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>At what Feaſt were moſt Gueſts fed with the leaſt meate?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>When five thouſand were fed in the Deſart with five Loaves and two Fi<g ref="char:EOLhyphen"/>ſhes.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Where did the Hauke and the Par<g ref="char:EOLhyphen"/>tridge, the Hound and the Hare, the Wolfe and the Lambe, the Elephant and the Uni<g ref="char:EOLhyphen"/>corne, and all creatures now oppoſite, live, lodge, and love together.</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Not onely before mans fall, but in <hi>Noahs</hi> Arke, a Type of the Unity of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Where did the Lyon roare, the Aſſe bray, the Wolfe howle, the Cock crow, the Nightingale ſing ſo loud that all the World heard them, the Fox and the Fowmart ſmell ſo ſtrong, that all the World felt them, yet unheard, unfelt in all parts of the Earth?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>In the ſame <hi>Noahs</hi> Arke.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Why was <hi>Cham</hi> ſaved in the Arke, being a wicked man?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>To ſhew Gods generall Providence over all, and his bounty to all in the com<g ref="char:EOLhyphen"/>mon bleſſing of Preſervation; as ſtill hee
+<pb n="50" facs="tcp:169840:28"/>givea foode to all fleſh, who live, move, and have their being in him. Secondly, that hee and his Poſterity might bee a whip and corrective Rod to the ſinning Poſterity of <hi>Sem</hi> and <hi>Japhet,</hi> as the ſeed of <hi>Moab</hi> and <hi>Amon,</hi> and <hi>Aſhur,</hi> were to the Iſraelites, the Turkes to ſinning Europe, the Imperi<g ref="char:EOLhyphen"/>aliſts lately to the Palatinate, and Arminia<g ref="char:EOLhyphen"/>nized Germany, the bloody Kerne to our Peccant Colonies in Ireland, and perhaps <hi>Gog</hi> and <hi>Magog,</hi> Turke and Pope ere long unto us, armed already againſt us by our crying ſinnes Regnant in our yet deformed Reformation.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What are the ſwifteſt thinges of Inanimates in their motions?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>An Arrow out of a Bow, a Bullet out of a Gun or Mortar-piece.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What of Fiſhes?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Dolphin, and thoſe Fiſhes which are ſayd to fly ſo long as their finnes are wet, in Lapland, Finland, and other parts in the Mediteranean Sea.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What of Beaſts?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Horſe, the Hart, the Hare, the Grey-hound, and Dromedaries, on which its thought thoſe wiſe men rode from the
+<pb n="51" facs="tcp:169840:28"/>Eaſt to worſhip Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who of men?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Jewiſh <hi>Hazaell,</hi> the Pagans <hi>Atlanta,</hi> and our Iriſh <hi>Kernes,</hi> who by turnes will runne a Deere to death on the Mountaines, they being wilder and vilder themſelves then the worſt Raſcalls.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What of Naturalls in their moti<g ref="char:EOLhyphen"/>on?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Sunne the great Peripatetick running dayly his courſe through the Hea<g ref="char:EOLhyphen"/>vens, and in a ſhort ſpace through all the ſignes of the Zodiack; darting alſo his beames in a trice upon the Earth.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What is the ſwifteſt thing in man?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>In his body his tongue, moſt ſwift and voluble in motion, and as unwearied (chiefely oyled in Lawyers and heated in women) and the thoughts of his heart as ſwift as lightning.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What of Birds?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Hauke, the Eagle, and the Swallow; but of all theſe the influence of grace on the heart and ſoule, the motions of the ſpirit, and the reflections and dart<g ref="char:EOLhyphen"/>ings of the ſpirit of man by the ſpirit of grace, in mentall and ejaculatory prayer,
+<pb n="52" facs="tcp:169840:29"/>as was ſayd of the Monkes of Aegypt and Lybia in their darted devotions, are ſwifter then all thoſe, in a trice piercing the clouds, and having acceſſe unto, and ſucceſſe with the God of Heaven, without any froathy formalities or verball vaniloquies or lip<g ref="char:EOLhyphen"/>laboured ſtultiloquies, either with a booke or without a booke.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who was borne as a man, dyed as a Lambe, roſe as a Lyon, and aſcended into Heaven as an Eagle?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Every meane Chriſtian can tell you it was Chriſt the Sonne of God.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>How many kindes of Sonnes hath God?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Sonnes by Creation, as the Angels, Sonnes by Adoption, as the Elect, and one<g ref="char:EOLhyphen"/>ly one Sonne by Nature, Chriſt our <hi>Emanu<g ref="char:EOLhyphen"/>ell,</hi> God with us.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who were Types and Figures of Chriſt?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Of Types perſonall, <hi>Iſaack</hi> was a Figure of his Birth, <hi>Joſeph</hi> of his betray<g ref="char:EOLhyphen"/>ing, <hi>Sampſon</hi> of his Death, <hi>Jonas</hi> of his Re<g ref="char:EOLhyphen"/>ſurrection, <hi>Enoch</hi> and <hi>Elias</hi> of his Aſcenti<g ref="char:EOLhyphen"/>on, <hi>Solomon</hi> of his Wiſdome, <hi>Noah</hi> and <hi>Abraham</hi> of his active obedience, <hi>Melchi<g ref="char:EOLhyphen"/>ſedech</hi>
+                  <pb n="53" facs="tcp:169840:29"/>of his Prieſthood, <hi>David</hi> of his Kingly and Propheticall Office.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What were his Reall Types?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Manna from Heaven, the Rock in the Widerneſſe, the ſcape Goate, the Propitiatory, the Sanctuary, the <hi>Sanctum Sanctorum,</hi> and the bloody oblations of Sheepe, Goats, Bullocks, and Turtle Doves.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What things were reſerved in the Arke?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Booke of the Law, the pot of Manna, and the Rod of <hi>Aaron</hi> which al<g ref="char:EOLhyphen"/>wayes budded.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>How oft was the Temple of the Jewes polluted by the Gentiles?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>By the Babilonians, by <hi>Antiochus,</hi> and by the Romans, when <hi>Pompey</hi> made it a ſtable for his Horſes.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What three Languages were hono<g ref="char:EOLhyphen"/>red and ſanctified by <hi>Pilates</hi> writing them upon Chriſts Croſſe?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Greeke, the Hebrew, and the Latine: Theſe not onely flouriſhed when one of the Ancients was called a trilinguiſt; but in later times, as the Aegyptians were robbed of their Jewels, the Pagans of their Arts and Sciences, to the uſe of the San<g ref="char:EOLhyphen"/>ctuary;
+<pb n="54" facs="tcp:169840:30"/>ſo for the ſame purpoſe theſe tongues of late have beene wonderouſly a<g ref="char:EOLhyphen"/>dorned, ſpread and poliſhed; the Greeke by <hi>Budaeus, Turnebus,</hi> our late <hi>Seapula,</hi> and the French <hi>Stevens;</hi> the Hebrew by <hi>Druſius, Buxendorffius, Martinius,</hi> and our <hi>Broughton;</hi> and the Latine by <hi>Eraſ<g ref="char:EOLhyphen"/>mus, Agricola,</hi> and others, rubbing the ruſt from it, as it was overſpread with ſuch Barbariſme (as ſome Levellers ayme at now) by the inundations of the Gothes and Vandals over Italy and elſe where.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>But to proceed, who was wiſer dreaming then her Husband waking?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>Pilates</hi> Wife forwarning him not to meddle with the King of the Jewes.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Now wee reflex on medling, what are Medlars?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Chiefly without guifts and calling, as <hi>
+                     <g ref="char:V">Ʋ</g>zziah</hi> medled with the Arke which belonged to the Levites to touch, and <hi>
+                     <g ref="char:V">Ʋ</g>z<g ref="char:EOLhyphen"/>zah</hi> with the Office of the Prieſts, for which he was as leprous as moſt ungifted and uncalled medlars ſince (for ſuch I one<g ref="char:EOLhyphen"/>ly ſtigmatize whether in black or colours) who skip from ſhops and ſhips, yea from a ſeven yeares Academicall Prentiſhip dyed
+<pb n="55" facs="tcp:169840:30"/>black or block, into Pewes and publick Pul<g ref="char:EOLhyphen"/>pits, ſuch medlars are never ripe till they be rotten, chiefely ſuch as meddle with other mens matters, and come to counſell before they be called, it being a bad Dogge which is not worth whiſtling for.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>How did I deſcribe ſuch unto you?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>As Biſhops in other mens dioceſ<g ref="char:EOLhyphen"/>ſes, fond Mariners with their oares in other mens boats, fond Cooks ſcalding their lips in other mens broth, fond Husbandmen and Gardiners weeding other mens grounds, and idle ſluttiſh Houſewives ſweeping o<g ref="char:EOLhyphen"/>ther mens houſes, when their owne are naſty, and overgrowne with Cobwebs, and critticall if not hypocriticall Phariſees, who ſee other mens moates, but not their owne beames, ſtrangle others Gnats, and ſwallow their owne Camels.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What is that proud and curious Prin<g ref="char:EOLhyphen"/>cock, who rejects and repudiates great and good proffered matches, till at laſt ſhe be neither well ſped nor clean without?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>She hath gone through the Wood, and choſen the crookedeſt ſtick, fondly put on a ſtraite glove or ſhoe which ſhe cannot put off, when ſhe had choice e<g ref="char:EOLhyphen"/>nough
+<pb n="56" facs="tcp:169840:31"/>in large and wide ſhops, and looked ſo high till a moate is fallen in her eye, and as a plague to her cogs, ſhee is tyed as an Ape to logs, having time enough to repent what ſhe did not prevent, roaſting her ſelfe at a lingering fire, and gnawing her owne heart as Vultures and Eagles the Livers of <hi>Titius</hi> and Poetized <hi>Prometheus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What are theſe things which once loſt or paſt, can ſcarce or never be recalled?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Winged Time, a word once ſpoke, though it be Treaſon, a Bird once flowne out of the buſh or boſome, a Ship ſunk in the bottome of the ſea, loſt Virginity, loſt opportunity, hairy before and bald behind, and uſually a loſſe in Honour, in Nobility, and loſſe of a good name in a woman, a ſcandall once raiſed and blazed, being as hard to be layd even by innocency it ſelfe, as the Northerne Windes ſtirred up by Norway-Witches, or the Divell himſelfe once conjured up by a <hi>Junior Fauſtus,</hi> or <hi>Cornelius Agrippa.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Whats the beſt way to keepe cre<g ref="char:EOLhyphen"/>dit with man, and conſcience with God?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Morall honeſty (ſuch as was in the two <hi>Catoes</hi> and <hi>Fabritius</hi>) called once by
+<pb n="57" facs="tcp:169840:31"/>King <hi>James</hi> the beſt Policy: Secondly, to doe well and ſay little, good Acts as the beſt letters of Commendations, ſpeaking a man better then words: Thirdly, ſo to con<g ref="char:EOLhyphen"/>verſe with God in ſincerity, as though men ſaw, and every <hi>Momus</hi> had a Window in<g ref="char:EOLhyphen"/>to his heart, and ſo to converſe with men as if God ſaw, as indeed hee doth; And laſtly, ſo to live, that mens eyes at laſt ſhall give a lye to their tongues and eares.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What is the iſſue of falſe reports?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>At laſt truth prevailing, as little <hi>David</hi> over great <hi>Goliab;</hi> like Diamonds (though unworthy that name) they are cut in their owne duſt: as waves daſhing on the Rock of innocency, they waſh it whi<g ref="char:EOLhyphen"/>ter, and break themſelves to froath, as a braſſe Ball thrown up into the aire, hurts not the aire, but hits upon the head of the thrower, as Aegyptian Dogs barking at the Moone, they hurt not the Moone, but ſhew their own tongues and teeth: as the wrathfull Weaſill biting the hot iron they hurt not the iron, but oft ſo burn their lips and tongues, they can never bite more; chiefly when their heels are bolted, though not tongues more then <hi>Xerxes</hi> could ſhac<g ref="char:EOLhyphen"/>kle
+<pb n="58" facs="tcp:169840:32"/>the Helleſpont, or King <hi>Canutus</hi> ſtay flowing waves. Laſtly, lewd and looſe Rumours, as lying, as flying; ſquib-like, flaſh, Crack, ſtink, and dye.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What's the beſt ſalve for every ſore, in name ſoule and ſpirit?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>Faith, and Evangellicall repentance ſalving and balming all ſinnes, guilts, and ſores better then <hi>Homers Moli, Grinaeus</hi> his <hi>Panacea,</hi> or all the drugs of <hi>Galenists,</hi> or <hi>Elixars</hi> of <hi>Paracelſians.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Since, <hi>Ille vere dolet, qui ſine teſte dolet:</hi> who wept with a Witneſſe, when he wept without a witneſſe?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>Peter,</hi> when after his blamefull, and ſhamefull denyall of Chriſt, he went out and wept bitterly, <hi>Et delevit, quod de<g ref="char:EOLhyphen"/>flevit,</hi> after hee had denyed his Lord and Maſter hee ſalved the ſores of ſinne with ſorrows playſter, and was more faithfull after hee had bewayled his want of faith, as is more fully ſeen in <hi>Origens</hi> Repentance verſified hee never after hearing a Cock crow, but hee ſight or wept, as is recor<g ref="char:EOLhyphen"/>ded.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Though the Lyon is ſayd to bee a<g ref="char:EOLhyphen"/>fraid of a Cock, what couragious Cock
+<pb n="59" facs="tcp:169840:32"/>was frighted with the cackling of a Hen?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>Peter</hi> when hee cryed <hi>Craven</hi> at the voyce of a Damoſell, in whom its pro<g ref="char:EOLhyphen"/>bable the Divell ſpake as in <hi>Pauls</hi> Pithoniſt Acts 16. (as hee daunced in the Daughter of <hi>Herodias</hi>) as he ſpoke alſo in <hi>Apollos</hi> Oracles, and in the ſerpent to <hi>Eve.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What Creature preached a Re<g ref="char:EOLhyphen"/>membrance Sermon to a forgetfull Hearer and Preacher?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>The Cock preaching a <hi>memento</hi> to <hi>Peter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Who without any ſope or water, either from Fountaine, or River, or Clouds from above, laudreſt and waſht every night his couch and his ſheetes?</p>
+            </sp>
+            <sp>
+               <speaker>Pu.</speaker>
+               <p>
+                  <hi>David</hi> with his owne Teares; ſuch warme water as <hi>Richard</hi> the Second gave his cruell Barbers, when they barbed him with cold water, and <hi>Sylvia</hi> a Curtizan, and <hi>Pelagia,</hi> that <hi>Pelagus la<g ref="char:EOLhyphen"/>chrimarum,</hi> who onely for thirty yeares together waſht her face with nought elſe but her owne teares as a ſecond <hi>Niobe. In fontĕ frontem, in flumina lumina vertens.</hi> Her front into a fountaine ever running, Her eys to floudgates by repe<g ref="char:cmbAbbrStroke">̄</g>tance turning.</p>
+            </sp>
+            <pb n="60" facs="tcp:169840:33"/>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>But <hi>Claudite jam rivos!</hi> For this night the Clock ſtriking ten to bedward, wee ſhut up our mouths ſhop ere <hi>Mor<g ref="char:EOLhyphen"/>pheus</hi> binde our tongues to peace in <hi>John</hi> a <hi>Nox</hi> his darke Jayle, till <hi>Phebus</hi> or <hi>Auro<g ref="char:EOLhyphen"/>ra</hi> bee our mornings Jayle deliverer.</p>
+            </sp>
+            <div type="to_the_reader">
+               <head>Ad lectorem hoc tantum.</head>
+               <lg>
+                  <l>Like to <hi>Noahs</hi> Dove, theſe are ſent out to try</l>
+                  <l>Their welcomes to the World; if all be dry</l>
+                  <l>And cleare, ſwift Time (truths Mother) will ſend forth</l>
+                  <l>If <hi>Jove</hi> pleaſe, ſomething ſoone of much more worth.</l>
+                  <l>Mean time <hi>Alcides</hi> by his foot was ſhown,</l>
+                  <l>And following flouds may in theſe drops be known,</l>
+                  <l>Suddainly falling from an aged braine,</l>
+                  <l>
+                     <hi>Sans</hi> Books, Writs, Scrouls, even in a talk<g ref="char:EOLhyphen"/>ing ſtraine.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
